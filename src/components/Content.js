@@ -21,7 +21,7 @@ const Content = () => {
         </div>
         <div className="right">
             <a href={myPdf} download className="btn bt">download Resume</a>
-              <a href={cert} download className="btn bt"> down certificate</a>
+              <a href={cert} download className="btn bt"> download certificate</a>
         </div>
       
     </div>
